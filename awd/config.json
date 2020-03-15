@@ -1,0 +1,12 @@
+{
+  "submitFlag": {
+    "headers": {
+      "CSRF-Token": "这是针对CTFd平台的提交，按需求添加必要的headers和cookies即可",
+      "Content-Type": "application/json"
+    },
+    "cookies": {
+      "session": "4c6ee9cf-efec-408b-9993-f0518ab7a07d"
+  },
+    "submitUrl":"提交的api地址"
+  }
+}
